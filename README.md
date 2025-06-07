@@ -1,4 +1,4 @@
 # AG_CIRL
 Context-aware Inverse Reinforcement Learning for Modeling Individuals’ Daily Activity Schedules
 
-Data and final code are coming soon.
+Liu, D., Li, D., Gao, K., Song, Y., & Zhou, Z. (2025). Context-aware inverse reinforcement learning for modeling individuals’ daily activity schedules. Engineering Applications of Artificial Intelligence, 146, 110279.
